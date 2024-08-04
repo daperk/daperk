@@ -29,10 +29,7 @@
 <h2 align="center" style="color: #FF0000;">Let's Connect</h2>
 <div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px; width: 80%; margin: 0 auto; color: white;">
     <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-        <a href="mailto:daperk29@gmail.com" style="text-decoration: none; color: white; margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/Email-%23FF0000.svg?style=flat&logo=gmail&logoColor=white" alt="Email">
-        </a>
-        <span style="display: block; text-align: center;">daperk29@gmail.com</span>
+        <span style="display: block; text-align: center;">My Email: Daperk29@gmail.com</span>
     </div>
     <a href="https://github.com/daperk" style="display: inline-block; text-decoration: none; color: white; margin-right: 20px;">
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
