@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #FF0000;">Hi 👋, I'm Daniel Pena</h1>
   <p style="color: #FFFFFF; background-color: #000000; padding: 15px; border-radius: 8px; font-size: 18px;">
-    Full-Stack Developer specializing in Front-End with a passion for coding. Based in Miami, Florida.
+    Full-Stack Developer specializing in Front-End with a passion for coding. Based in Miami, Florida, USA.
   </p>
   <a href="https://www.linkedin.com/in/daniel-pena-90834b255/">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE4Ymx5NzlucDJwZjJsbDl0cWR1dDdwd2FieGQ4aGlzNXQ5eWhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="LinkedIn Banner" width="600" style="border-radius: 10px;"/>
