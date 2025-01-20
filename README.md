@@ -44,6 +44,6 @@
 
 <h2 align="center" style="color: #FF0000;">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daperk&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daperk&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=daperk&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;"> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daperk&theme=github" alt="GitHub Contributions Graph">
 </div>
