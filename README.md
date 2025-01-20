@@ -47,5 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=daperk&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;">
 </div>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=daperk&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daperk&theme=dark" alt="GitHub Profile Summary">
+
 </div>
