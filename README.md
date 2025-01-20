@@ -44,7 +44,7 @@
 <hr style="border: 2px solid #FF0000;">
 
 <h2 align="center" style="color: #FF0000;">📊 GitHub Stats</h2>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=daperk&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daperk&theme=dark" alt="GitHub Profile Summary">
   <img src="https://github-profile-trophy.vercel.app/?username=daperk&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies">
