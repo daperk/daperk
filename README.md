@@ -47,8 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=daperk&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daperk&theme=dark" alt="GitHub Profile Summary">
   <img src="https://github-profile-trophy.vercel.app/?username=daperk&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark" alt="Wakatime Stats">
 <img src="https://komarev.com/ghpvc/?username=daperk&color=blue&style=flat-square" alt="Profile Views">
-<img src="https://github-contributions-stats.vercel.app/api/?username=daperk" alt="GitHub Contributions Stats">
 </div>
 
