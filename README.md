@@ -1,4 +1,4 @@
-wq<div align="center">
+<div align="center">
   <h1 style="color: #FF0000;">Hi 👋, I'm Daniel Pena</h1>
   <p style="color: #FFFFFF; background-color: #000000; padding: 15px; border-radius: 8px; font-size: 18px;">
     Full-Stack Developer specializing in Front-End with a passion for coding. Based in Miami, Florida, USA.
